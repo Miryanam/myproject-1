@@ -47,4 +47,12 @@
         android:layout_marginTop="39dp"
         android:text="Button" />
 
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/button1"
+        android:layout_toLeftOf="@+id/button4"
+        android:text="TextView" />
+
 </RelativeLayout>
